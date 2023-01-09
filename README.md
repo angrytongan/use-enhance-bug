@@ -33,7 +33,7 @@ npm run dev
 8. Press `Submit`.
 9. Nothing printed underneath form. Fields are empty. Server prints:
     ```js
-    { first: 'hello', last: 'world' }
+    { first: '', last: '' }
     ```
 
 ## Expectation
